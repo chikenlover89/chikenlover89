@@ -4,4 +4,4 @@ Welcome to my repository!
 
 + cdlx-prj small projects and excercises to learn web-development backend basics
 + codelex-backup first excercises to learn php basics
-+ codelex-blog forked project for codelex homeworks
++ eur-exchange-rates homepage to displat currency exchange rates
