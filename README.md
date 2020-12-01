@@ -2,6 +2,6 @@
 
 Welcome to my repository!
 
-+ **cdlx-prj** small projects and excercises to learn web-development backend basics
-+ **codelex-backup** first excercises to learn php basics
-+ **eur-exchange-rates** homepage to display currency exchange rates
++ **lp-cv** is a CV storage database that allows to input CVs with multiple fields
++ **eur-exchange-rates** is a proejct that fetches euro exchange rates from bank.lv and displays in page
++ **equity search** is a project that fetches stock information, stores in local database and displays information in page
